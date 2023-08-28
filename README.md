@@ -1,1 +1,1 @@
-# coursera_week1_assignment
+# coursera_week2_assignment
